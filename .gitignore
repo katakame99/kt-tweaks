@@ -1,0 +1,13 @@
+# Clé privée des licences et mises à jour : ne JAMAIS publier
+vendeur/
+cle-privee*
+*.pfx
+*.snk
+*.pem
+
+# Fichiers générés
+bin/
+obj/
+*.bak
+*.user
+licence.txt
